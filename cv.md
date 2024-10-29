@@ -18,3 +18,15 @@ I am a 27-year-old researcher with a Master’s degree and postgraduate studies 
 - Git / GitHub
 - JavaScript
 - Photoshop
+
+## Code Examples
+
+```
+function hideModal(modalSelector) {
+  const modal = document.querySelector(modalSelector);
+
+  modal.classList.add('hide');
+  modal.classList.remove('show');
+  document.body.style.overflow = '';
+}
+```
