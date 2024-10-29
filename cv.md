@@ -38,3 +38,8 @@ function hideModal(modalSelector) {
   - Master's degree
 - **Scientific and Practical Center of the National Academy of Sciences of Belarus for Materials Science**
   - Postgraduate
+
+## Languages
+
+- **Russian** - native speaker.
+- **English** - A2
