@@ -30,3 +30,11 @@ function hideModal(modalSelector) {
   document.body.style.overflow = '';
 }
 ```
+
+## Education
+
+- **Belarusian National Technical University**
+  - Micro- and nanosystem technology
+  - Master's degree
+- **Scientific and Practical Center of the National Academy of Sciences of Belarus for Materials Science**
+  - Postgraduate
