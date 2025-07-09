@@ -156,3 +156,20 @@ body {
 .logo_wrapper img {
   width: 150px;
 }
+
+.projects_section {
+  padding: 10px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.projects_wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center center;
+}
+
+.projects_wrapper img {
+  width: 200px;
+}
