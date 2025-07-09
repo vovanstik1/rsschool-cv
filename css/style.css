@@ -181,6 +181,10 @@ body {
   max-width: 1280px;
 }
 
+a:hover {
+  color: var(--grey3);
+}
+
 @media (max-width: 800px) {
   .projects_wrapper {
     grid-template-columns: 1fr;
