@@ -10,6 +10,9 @@
   --grey3: #999;
   --bg: #f3f3f3;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   max-width: 1200px;
@@ -172,4 +175,19 @@ body {
 
 .projects_wrapper img {
   width: 200px;
+}
+
+.content {
+  max-width: 1280px;
+}
+
+@media (max-width: 800px) {
+  .projects_wrapper {
+    grid-template-columns: 1fr;
+  }
+
+  .menu {
+    flex-direction: column;
+    gap: 10px;
+  }
 }
