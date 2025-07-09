@@ -120,3 +120,10 @@ body {
   flex-direction: column;
   gap: 15px;
 }
+
+.lang_wrapper {
+  padding: 10px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
